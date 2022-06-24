@@ -1,6 +1,9 @@
 ## Oi! :sparkles:
 
 <div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcb6zu5-524f2edf-3771-4af8-8747-0f847eb7cfa4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNiNnp1NS01MjRmMmVkZi0zNzcxLTRhZjgtODc0Ny0wZjg0N2ViN2NmYTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yaUsBD_W5vliabKIWj0fA6bxEq9juzOJVenJ0c1ToVk">
+  </div
+  <div align="center">
   <a href="https://github.com/ingridlebrao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridlebrao&show_icons=true&theme=swift&include_all_commits=false&count_private=true"/>
 
