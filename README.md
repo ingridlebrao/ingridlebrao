@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/ingridlebrao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ingridlebrao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ad6d78?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1291315876&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 </div>
